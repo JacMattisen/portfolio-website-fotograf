@@ -7,23 +7,34 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #ffffff;
+  background: url('/img/img_fundo2.jpg') no-repeat center center fixed;
+  background-size: cover;
   color: #000000;
   line-height: 1.6;
 }
 
+
 /* Header */
 header {
-  background-color: #800020; 
+  background-color: #800020;
   color: #ffffff;
   padding: 30px 20px;
-  text-align: center;
+  display: flex;
+  justify-content: space-between; /* separa título e menu */
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 header h1 {
   font-size: 2.5rem;
   margin-bottom: 10px;
 }
+
+nav {
+  display: flex;
+  gap: 15px;
+}
+
 
 nav a {
   color: #ffffff;
