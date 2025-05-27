@@ -1,70 +1,106 @@
-# Getting Started with Create React App
+> ![Projektstatus](https://img.shields.io/badge/Status-im%20Aufbau-yellow)
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> ⚠️ **Projekt im Aufbau**: Dieses Portfolio befindet sich noch in der Entwicklung. Einige Funktionen werden derzeit implementiert!
 
-## Available Scripts
+> ⚠️ **Projeto em construção**: Este portfólio ainda está sendo desenvolvido. Algumas funcionalidades estão em andamento!
+---
 
-In the project directory, you can run:
 
-### `npm start`
+## 🇩🇪 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# 📸 Intelligente Portfolio-Plattform für Fotograf*innen
 
-### `npm test`
+Dieses Projekt ist eine moderne Website mit **React**, die speziell für Fotograf*innen entwickelt wurde, um ihre Arbeiten professionell zu präsentieren. Die Plattform enthält außerdem ein einfaches Admin-Panel, eine Datenbank-Anbindung (geplant) und einen KI-basierten Chatbot zur Beantwortung häufiger Besucherfragen.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Funktionen
 
-### `npm run build`
+- 📷 Responsive Bildergalerie
+- 📱 Modernes, helles Design
+- 🛠️ Administrationsbereich für Foto-Uploads
+- 🤖 KI-Chatbot zur Nutzerinteraktion
+- 🧪 Automatisierte Tests (in Entwicklung)
+- 🌐 Datenbank-Anbindung in Planung
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💡 Präsentierte Dienstleistungen
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Schwangerschafts-Shootings  
+- Newborn-Shootings  
+- Pre-Wedding-Shootings  
+- Soziale Fotoprojekte
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🧠 Verwendete Technologien
 
-### `npm run eject`
+- React (Frontend)
+- HTML5, CSS3, JavaScript (ES6+)
+- Python + Flask (Backend geplant)
+- SQLite oder PostgreSQL (geplant)
+- Rasa oder Dialogflow (KI-Chatbot)
+- Git und GitHub
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📞 Kontakt & Soziale Medien
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Enthält einen Kontaktbereich mit:
+- WhatsApp-Button
+- E-Mail-Adresse
+- Instagram-Link
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🏗️ Projektstatus
 
-## Learn More
+> 🔧 In Entwicklung – Backend und Chatbot werden derzeit implementiert.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+# 📸 Plataforma de Portfólio Inteligente para Fotógrafas
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Este projeto é um site moderno feito com **React**, voltado para fotógrafas apresentarem seus trabalhos de forma profissional. A plataforma também inclui um painel administrativo, integração com banco de dados e um chatbot com IA para responder perguntas frequentes de visitantes.
 
-### Analyzing the Bundle Size
+## 🚀 Funcionalidades
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- 📷 Galeria de fotos responsiva
+- 📱 Design moderno e claro
+- 🛠️ Painel administrativo para upload de imagens
+- 🤖 Chatbot com IA para interações automáticas
+- 🧪 Testes automatizados (em desenvolvimento)
+- 🌐 Preparado para futura integração com banco de dados
 
-### Making a Progressive Web App
+## 💡 Serviços Apresentados
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Ensaio gestante  
+- Newborn  
+- Pré-wedding  
+- Projeto social
 
-### Advanced Configuration
+## 🧠 Tecnologias Utilizadas
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- [React](https://reactjs.org/)
+- HTML5, CSS3, JavaScript (ES6+)
+- Python + Flask (backend em breve)
+- SQLite ou PostgreSQL (planejado)
+- Rasa ou Dialogflow (chatbot IA)
+- Git e GitHub
 
-### Deployment
+## 📞 Contato e Redes
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Inclui seção de contato com:
+- Botão de WhatsApp direto
+- E-mail
+- Instagram
 
-### `npm run build` fails to minify
+## 🏗️ Status do Projeto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> 🔧 Em desenvolvimento — backend e chatbot sendo implementados.
+
+## 🧭 Como Executar Localmente
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/portfolio-fotografa.git
+
+   cd portfolio-fotografa
+npm install
+
+npm start
