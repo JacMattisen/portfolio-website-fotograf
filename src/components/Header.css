@@ -1,0 +1,86 @@
+header {
+  background-color: #800020;
+  color: #ffffff;
+  padding: 15px 20px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  font-size: 1.8rem;
+}
+
+.menu-button {
+  display: none;
+}
+
+/* Menu para desktop */
+nav {
+  display: flex;
+  gap: 15px;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #ffcccc;
+}
+
+
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .menu-button {
+    display: block;
+    background-color: transparent;
+    color: #ffffff;
+    font-size: 2rem;
+    border: none;
+    cursor: pointer;
+    margin-left: auto;
+  }
+
+  nav {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    background-color: #800020;
+    padding: 10px 0;
+  }
+
+  nav.active {
+    display: flex;
+  }
+
+  nav a {
+    padding: 10px 20px;
+    border-top: 1px solid #ffffff33;
+  }
+}
+
+/*whatapp*/
+.whatsapp-float {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25D366;
+  color: white;
+  padding: 12px 18px;
+  border-radius: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+  z-index: 1000;
+}
